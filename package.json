@@ -1,0 +1,18 @@
+{
+  "author": "pekepekesamurai",
+  "name": "vim-ref-jsextra",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "cheerio" : "0.8.3",
+    "glob" : "3.1.10",
+    "async" : "0.1.22"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
